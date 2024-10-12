@@ -1,4 +1,4 @@
-[![MasterHead](https://images8.alphacoders.com/113/thumb-1920-1139017.jpg)
+![MasterHead](https://images8.alphacoders.com/113/thumb-1920-1139017.jpg)
 <h1 align="center">Ooo kardeşim hoşgeldin 👋 ben Ömer Kerem</h1>
 <h3 align="center">Debug.Log("gameDeveloper") //beginner</h3>
 
