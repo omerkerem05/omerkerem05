@@ -1,5 +1,5 @@
 ![MasterHead](https://images8.alphacoders.com/113/thumb-1920-1139017.jpg)
-<h1 align="center">Ooo kardeşim hoşgeldin, keyfine bak 👋</h1>
+<h1 align="center">Ooo kardeşim hoşgeldin 👋</h1>
 <h3 align="center">Debug.Log("gameDeveloper") //beginner</h3>
 
 - 🔭 I’m currently working on **Visual Studio**
