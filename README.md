@@ -2,15 +2,15 @@
 <h1 align="center">Efenim selamlar 👋</h1>
 <h3 align="center">Debug.Log("gameDeveloper") //beginner</h3>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **a secret game**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Python & Java**
 
-- 👨‍💻 All of my projects are available at [https://atak-games.itch.io/](https://atak-games.itch.io/)
+- 👨‍💻 All of my projects are available at [Levelium Studios](https://leveliumstudios.itch.io/)
 
 - 💬 Ask me about **Unity**
 
-- 📫 How to reach me **simdilikulasma@gmail.com**
+- 📫 How to reach me **catakliomerkerem@gmail.com**
 
 - ⚡ Fun fact **I think I am not funny**
 
