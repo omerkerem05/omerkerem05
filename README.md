@@ -1,18 +1,18 @@
 ![MasterHead](https://images8.alphacoders.com/113/thumb-1920-1139017.jpg)
 <h1 align="center">Efenim selamlar 👋</h1>
-<h3 align="center">Debug.Log("gameDeveloper") //beginner</h3>
+<h3 align="center">Ben Ömer Kerem</h3>
 
-- 🔭 I’m currently working on **a secret game**
+- 🔭 Marmara Bilgisayar Mühendisliği 2. Sınıf öğrencisiyim.
 
-- 🌱 I’m currently learning **Python & Java**
+- 🌱 Kendimi Java dilinde ve IT alanında geliştirmeye çalışıyorum.
 
-- 👨‍💻 All of my projects are available at [Levelium Studios](https://leveliumstudios.itch.io/)
+- 👨‍💻 Liseden beri geliştirmeye devam ettiğim Unity projelerime itch.io sitemden ulaşabilirsiniz. [omerkerem05](https://omerkerem05.itch.io/)
 
-- 💬 Ask me about **Unity**
+- 💬 İş olur staj olur her türlü teklife açığım :)
 
-- 📫 How to reach me **catakliomerkerem@gmail.com**
+- 📫 Mail adresim üzerinden bana ulaşabilirsiniz. **catakliomerkerem@gmail.com**
 
-- ⚡ Fun fact **I think I am not funny**
+- ⚡ Masa tenisi oynamayı severim. Kaybetmeyi daha çok severim ama son zamanlarda başaramıyorum 😏
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
